@@ -9,3 +9,4 @@ openpyxl>=3.1.0
 jupyter>=1.0.0
 ipykernel>=6.25.0
 tqdm>=4.66.0
+wordcloud>=1.9.0
