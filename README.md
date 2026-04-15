@@ -96,6 +96,3 @@ dice.fm destaca como plataforma de compra — su app y proceso de reserva están
 - **Experiencia en evento**: -15.4% sobre el sector, relacionado con condiciones en venues parcialmente fuera del control de dice.fm.
 
 > La brecha entre la experiencia de compra (valorada positivamente) y la gestión de problemas (reembolsos, atención al cliente) es el principal factor que lastra la posición competitiva de dice.fm.
-
----
-
