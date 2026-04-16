@@ -76,7 +76,7 @@ dice.fm se sitúa 3.8 puntos por debajo de la media del sector.
 |---|---|---|---|
 | Proceso de compra online | 88.9% | 65.1% | **+23.8%** ✅ |
 | Compra de entradas | 44.4% | 33.6% | **+10.8%** ✅ |
-| Experiencia y ambiente | 50.0% | 65.4% | -15.4% ⚠️ |
+| Experiencia y ambiente | 50.0% | 65.4% | -15.4% ❌ |
 | Reembolsos y pagos | 8.0% | 19.0% | -11.0% ❌ |
 | Servicio al cliente | 14.3% | 51.5% | **-37.2%** ❌ |
 
